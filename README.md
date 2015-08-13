@@ -1,7 +1,7 @@
 go-sqlite3 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Schumix/go-sqlite3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ==========
 
-[![Build Status](https://travis-ci.org/mattn/go-sqlite3.png?branch=master)](https://travis-ci.org/mattn/go-sqlite3)
+[![Build Status](https://travis-ci.org/mattn/go-sqlite3.svg?branch=master)](https://travis-ci.org/mattn/go-sqlite3)
 [![Coverage Status](https://coveralls.io/repos/mattn/go-sqlite3/badge.png?branch=master)](https://coveralls.io/r/mattn/go-sqlite3?branch=master)
 
 Description
